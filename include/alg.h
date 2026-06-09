@@ -1,4 +1,4 @@
-// Copyright 2025 UNN-CS
+// Copyright 2026 Klimovich V.O.
 #ifndef INCLUDE_ALG_H_
 #define INCLUDE_ALG_H_
 #include <cstdint>
